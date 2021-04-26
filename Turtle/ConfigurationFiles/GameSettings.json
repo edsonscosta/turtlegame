@@ -1,0 +1,30 @@
+{
+  "Direction": "North",
+  "BoardSize": { 
+      "X": 5,
+      "Y": 4 
+  },
+  "StartPoint": { 
+      "X": 0,
+      "Y": 1 
+  },
+  "ExitPoint": { 
+      "X": 4,
+      "Y": 2 
+  },
+  "StartDirection": 0,
+  "MinePoints": [
+    { 
+        "X": 1,
+        "Y": 1
+    },
+    { 
+        "X": 3,
+        "Y": 1 
+    },
+    { 
+        "X": 3,
+        "Y": 3 
+    }
+  ]
+}
